@@ -1,0 +1,42 @@
+/*Find images with Unsplash */
+/*Find fonts whit googlefonts*/
+/*Find webp whit gipht*/
+/*Use coolors para paletas y combinarla con las imagenes*/
+
+body{
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'orbitron',sans-serif;
+    font-size: 30px;
+    margin: 0px;
+}
+
+#hero{
+    background-image: url("images/universe.gif");
+    background-size: cover;
+    padding: 10px 0 40px 0 ;
+    text-shadow: 4px 10px 4px black;
+}
+
+#terms{
+    margin: 30px;
+   
+}
+
+.btn{
+    padding: 6px 12px;
+    background-color: white;
+    border: none;
+    font-family: inherit;
+    font-size: 30px;
+    color: #82a5ca;
+    font-weight: bold;
+}
+
+#cta{
+    border-bottom: 4px solid white;
+}
+
+#logo{
+    width: 200px; 
+}
